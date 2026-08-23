@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Sachin Kumar developer profile header</title>
+  <desc id="desc">A dark terminal-inspired developer dashboard with neon cyan and amber accents.</desc>
+  <rect width="1200" height="300" fill="#101820"/>
+  <path d="M0 246h1200" stroke="#20343d" stroke-width="2"/>
+  <path d="M0 70h1200M0 140h1200M0 210h1200" stroke="#162830" stroke-width="1"/>
+  <path d="M88 0v300M176 0v300M264 0v300M352 0v300M440 0v300M528 0v300M616 0v300M704 0v300M792 0v300M880 0v300M968 0v300M1056 0v300M1144 0v300" stroke="#14252c" stroke-width="1"/>
+  <rect x="72" y="48" width="1056" height="188" rx="8" fill="#0b1218" stroke="#2b4a54" stroke-width="2"/>
+  <circle cx="100" cy="73" r="6" fill="#ffb454"/>
+  <circle cx="122" cy="73" r="6" fill="#49d6c6"/>
+  <circle cx="144" cy="73" r="6" fill="#587481"/>
+  <text x="176" y="79" fill="#718891" font-family="monospace" font-size="14">sachin@builder: ~/profile</text>
+  <text x="112" y="136" fill="#49d6c6" font-family="monospace" font-size="28">&gt; ship useful software</text>
+  <text x="112" y="170" fill="#f4f7f8" font-family="monospace" font-size="22">full-stack systems // applied AI/ML</text>
+  <text x="112" y="207" fill="#ffb454" font-family="monospace" font-size="14">[ react ] [ node ] [ python ] [ data ]</text>
+  <text x="1010" y="136" fill="#49d6c6" font-family="monospace" font-size="13">STATUS</text>
+  <text x="1010" y="160" fill="#f4f7f8" font-family="monospace" font-size="13">ONLINE</text>
+  <circle cx="1091" cy="155" r="5" fill="#49d6c6"/>
+  <text x="1010" y="194" fill="#718891" font-family="monospace" font-size="12">Sachin Kumar</text>
+</svg>
