@@ -17,7 +17,7 @@
 
 I build practical products, backend systems, and AI/ML experiments with a strong focus on clean execution and real-world problem solving.
 
-## Tech Stack
+## Skills
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
@@ -57,7 +57,3 @@ I build practical products, backend systems, and AI/ML experiments with a strong
 - Email: [sachin8976540@gmail.com](mailto:sachin8976540@gmail.com)
 - GitHub: [Sachin1885](https://github.com/Sachin1885)
 - Portfolio: [Live site](https://portfolio-10sv.onrender.com/)
-
----
-
-<sub>Profile README for Sachin Kumar.</sub>
