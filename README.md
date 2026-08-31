@@ -131,11 +131,15 @@ My focus is backend-aware product engineering: clear workflows, dependable APIs,
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachin1885&theme=dark&hide_border=true&ring=49D6C6&fire=FFB454&currStreakLabel=49D6C6" alt="Sachin Kumar's GitHub contribution streak" width="49%" />
   </a>
   <a href="https://github.com/Sachin1885?tab=contributions">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sachin1885&bg_color=101820&color=49D6C6&line=FFB454&point=F4F7F8&area=true&hide_border=true" alt="Sachin Kumar's GitHub contribution activity graph" width="49%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sachin1885&theme=react&bg_color=111827&color=49D6C6&line=FFB454&point=F4F7F8&area=true&hide_border=true" alt="Sachin Kumar's GitHub contribution activity graph" width="49%" />
   </a>
 </p>
 
-<sub>Streak and activity visuals are served by public GitHub-linked services. If they are unavailable, the native [GitHub profile](https://github.com/Sachin1885) and [contributions view](https://github.com/Sachin1885?tab=contributions) remain the source of truth.</sub>
+<p align="center">
+  <a href="https://github.com/Sachin1885?tab=contributions">View the live GitHub contribution graph</a>
+</p>
+
+<sub>Streak and activity visuals are served by public GitHub-linked services. If the graph image is temporarily unavailable, the native [GitHub profile](https://github.com/Sachin1885) and [contributions view](https://github.com/Sachin1885?tab=contributions) remain the source of truth.</sub>
 
 ## Contribution Activity
 
