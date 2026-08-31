@@ -1,22 +1,21 @@
 <div align="center">
 
-<img src="https://github.com/Sachin1885.png" width="180" alt="Sachin Kumar" />
+<img src="https://github.com/Sachin1885.png" width="160" alt="Sachin Kumar" />
 
 # Sachin Kumar
 
-### Software Engineer | Full Stack & Backend Developer
+### Relentless debugger 🔧📖 Perpetual evolver, questing for pixel-perfect perfection!📚 💻
 
-Building practical products, backend systems, and AI/ML experiments with a strong focus on real-world execution.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Sachin1885-181717?style=flat-square&logo=github)](https://github.com/Sachin1885)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-0A7B83?style=flat-square&logo=googlechrome&logoColor=white)](https://portfolio-10sv.onrender.com/)
-[![Repos](https://img.shields.io/badge/Repositories-23-0A7B83?style=flat-square&logo=github)](https://github.com/Sachin1885?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-Sachin1885-181717?style=for-the-badge&logo=github)](https://github.com/Sachin1885)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A7B83?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-10sv.onrender.com/)
+[![Email](https://img.shields.io/badge/Email-sachin8976540%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachin8976540@gmail.com)
+[![Repos](https://img.shields.io/badge/Repositories-23-0A7B83?style=for-the-badge&logo=github)](https://github.com/Sachin1885?tab=repositories)
 
 </div>
 
-## About
+## About Me
 
-I build full-stack applications, backend services, and AI/ML prototypes with a focus on clean architecture, product usability, and deployment-ready systems.
+I build practical products, backend systems, and AI/ML experiments with a strong focus on clean execution and real-world problem solving.
 
 ## Tech Stack
 
@@ -30,29 +29,34 @@ I build full-stack applications, backend services, and AI/ML prototypes with a f
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
 
-## Featured Projects
+## Popular Repositories
 
-- [Portfolio](https://github.com/Sachin1885/Portfolio) — personal developer portfolio and project showcase
-- [Grocery Shop Manager](https://github.com/Sachin1885/-Grocery-Shop-Manager) — inventory, billing, and shop operations system
-- [DarkType](https://github.com/Sachin1885/DarkType) — real-time backend for communication products
-- [Chat App](https://github.com/Sachin1885/Chat-app) — real-time room-based chat application
-- [Vidloom](https://github.com/Sachin1885/Vidloom) — WebRTC and browser communication project
-- [AI Resume Screening System](https://github.com/Sachin1885/AI-Resume-Screening-System) — AI-based resume matching prototype
+- [Portfolio](https://github.com/Sachin1885/Portfolio)
+- [Grocery Shop Manager](https://github.com/Sachin1885/-Grocery-Shop-Manager)
+- [DarkType](https://github.com/Sachin1885/DarkType)
+- [Chat App](https://github.com/Sachin1885/Chat-app)
+- [Vidloom](https://github.com/Sachin1885/Vidloom)
+- [AI Resume Screening System](https://github.com/Sachin1885/AI-Resume-Screening-System)
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachin1885&theme=dark&hide_border=true&ring=49D6C6&fire=FFB454&currStreakLabel=49D6C6" alt="GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachin1885&theme=dark&hide_border=true&ring=49D6C6&fire=FFB454&currStreakLabel=49D6C6" alt="Sachin Kumar's GitHub streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sachin1885&theme=react&bg_color=111827&color=49D6C6&line=FFB454&point=F4F7F8&area=true&hide_border=true" alt="Sachin Kumar's GitHub contribution activity graph" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Sachin1885?tab=contributions">View contribution activity</a>
 </p>
 
-## Connect
+## Contact
 
-- [GitHub](https://github.com/Sachin1885)
-- [Portfolio](https://portfolio-10sv.onrender.com/)
+- Email: [sachin8976540@gmail.com](mailto:sachin8976540@gmail.com)
+- GitHub: [Sachin1885](https://github.com/Sachin1885)
+- Portfolio: [Live site](https://portfolio-10sv.onrender.com/)
 
 ---
 
