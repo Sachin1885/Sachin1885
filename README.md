@@ -1,5 +1,5 @@
 <div align="center" style="background:#020d18; color:#edf7ff; font-family:Segoe UI, sans-serif; padding:24px 0 8px;">
-  <img src="https://github.com/itshivams.png" width="210" height="210" alt="Shivam" style="border-radius:50%; border:4px solid rgba(35,255,195,0.35); box-shadow:0 0 28px rgba(32,255,176,0.18); background:#081a24;" />
+  <img src="https://github.com/Sachin1885.png" width="210" height="210" alt="Shivam" style="border-radius:50%; border:4px solid rgba(35,255,195,0.35); box-shadow:0 0 28px rgba(32,255,176,0.18); background:#081a24;" />
 
   <div style="margin-top:18px; background:rgba(23,35,46,0.9); border:1px solid rgba(150,175,190,0.18); border-radius:18px; max-width:980px; margin-left:auto; margin-right:auto; padding:22px 18px 16px; box-shadow:0 0 18px rgba(19,42,52,0.5);">
     <div style="display:flex; align-items:center; justify-content:space-between; gap:18px; flex-wrap:wrap; padding:6px 12px 0;">
@@ -218,5 +218,5 @@
 </div>
 
 <div align="center" style="padding:12px 0 40px;">
-  <img src="https://github.com/itshivams.png" width="220" height="220" alt="Shivam profile" style="border-radius:18px; border:2px solid rgba(140,165,182,0.22); box-shadow:0 0 18px rgba(29,255,180,0.18);" />
+  <img src="https://github.com/Sachin1885.png" width="220" height="220" alt="Shivam profile" style="border-radius:18px; border:2px solid rgba(140,165,182,0.22); box-shadow:0 0 18px rgba(29,255,180,0.18);" />
 </div>
