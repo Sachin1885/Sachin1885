@@ -17,22 +17,20 @@ My work focuses on turning real problems into maintainable products with clear i
 
 </div>
 
-## What I Do
+## 👨‍💻 About Me
 
-I design and build reliable, user-focused software from idea to deployment. My work combines thoughtful interfaces, practical backend systems, and a strong focus on maintainability.
+I build full-stack web applications with React, Node.js, TypeScript, and Python.
+My strongest areas are backend APIs, authentication, PostgreSQL-backed systems, and real-time communication with WebSockets and WebRTC.
+My projects include retail operations software, developer tools, peer-to-peer browser communication, and portfolio products.
+I also explore applied AI/ML through NLP-based resume and job-description matching workflows.
+I enjoy the engineering work behind turning practical product ideas into clear, maintainable software.
 
-| Focus | What it means in practice |
-| --- | --- |
-| Product engineering | Turning ideas into polished, production-ready web applications |
-| Backend systems | Designing APIs, authentication, data flows, and scalable services |
-| Applied AI/ML | Exploring intelligent features that solve real user problems |
-| Developer experience | Keeping codebases clear, testable, documented, and easy to ship |
+## 🚀 Currently
 
-## Currently Exploring
-
-- Building with **Next.js, Django, Golang, and SwiftUI**
-- Learning **gRPC, distributed systems, and cloud architecture**
-- Open to meaningful **open-source projects and collaborations**
+- **Building:** Full-stack products with React, Node.js, Python, Django, and PostgreSQL
+- **Learning:** gRPC and distributed systems
+- **Exploring:** Applied AI/ML workflows and real-time browser applications
+- **Open to:** Meaningful open-source collaborations
 
 ## Technical Toolkit
 
