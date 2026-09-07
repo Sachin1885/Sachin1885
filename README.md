@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer | Python Backend & Applied AI/ML
 
-I build practical web applications, backend services, and intelligent tools using React, Node.js, Python, Django, PostgreSQL, and machine-learning workflows.
+I build practical web applications, backend services, and intelligent tools using React, Node.js, Python, PostgreSQL, and machine-learning workflows.
 
 My work focuses on turning real problems into maintainable products with clear interfaces, reliable APIs, and useful data-driven features.
 
@@ -12,8 +12,6 @@ My work focuses on turning real problems into maintainable products with clear i
 [GitHub](https://github.com/Sachin1885) ·
 [Repositories](https://github.com/Sachin1885?tab=repositories) ·
 [Email](mailto:sachin8976540@gmail.com)
-
-![Profile views](https://komarev.com/ghpvc/?username=Sachin1885&color=0e75b6&style=flat-square)
 
 </div>
 
@@ -27,11 +25,8 @@ I enjoy the engineering work behind turning practical product ideas into clear, 
 
 ## 🚀 Currently
 
-- **Building:** Full-stack products with React, Node.js, Python, Django, and PostgreSQL
-- **Learning:** gRPC and distributed systems
+- **Building:** Full-stack products with React, Node.js, Python, and PostgreSQL
 - **Exploring:** Applied AI/ML workflows and real-time browser applications
-- **Open to:** Meaningful open-source collaborations
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -132,27 +127,17 @@ Tech: `Python` `Streamlit` `scikit-learn` `Pandas` `NumPy` `NLP`
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sachin1885&theme=github_dark" width="400" alt="Sachin's GitHub statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sachin1885&theme=github_dark" width="100%" alt="Sachin's GitHub statistics" />
 
 <br />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sachin1885&theme=github_dark" width="400" alt="Sachin's top languages by repository" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sachin1885&theme=github_dark" width="100%" alt="Sachin's top languages by repository" />
 
 <br />
-
-<img src="https://streak-stats.demolab.com?user=Sachin1885&hide_border=true&theme=transparent" width="500" alt="Sachin's GitHub contribution streak" />
-
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sachin1885&theme=github_dark" width="100%" alt="Sachin's GitHub contribution activity" />
 
 </div>
-
-> A developer's favorite shortcut? `Ctrl + S`.
 
 ## 🤝 Let's Connect
 
