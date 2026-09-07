@@ -154,6 +154,10 @@ Tech: `Python` `Streamlit` `scikit-learn` `Pandas` `NumPy` `NLP`
 
 > A developer's favorite shortcut? `Ctrl + S`.
 
-## Let's Build Something Useful
+## 🤝 Let's Connect
 
-Have an idea, a technical challenge, or an open-source project in mind? [Send me an email](mailto:sachin8976540@gmail.com) or [visit my portfolio](https://portfolio-10sv.onrender.com/).
+Interested in practical software engineering, backend systems, or applied AI/ML? I would be glad to connect and discuss useful ideas.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f766e?style=flat-square&logo=googlechrome&logoColor=white)](https://portfolio-10sv.onrender.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sachin1885)
+[![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sachin8976540@gmail.com)
