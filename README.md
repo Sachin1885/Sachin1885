@@ -6,9 +6,9 @@
 
 ### Full-Stack Developer | Problem Solver | Open-Source Enthusiast
 
-<a href="https://github.com/Sachin1885">GitHub</a> ·
-<a href="mailto:sachin8976540@gmail.com">Email</a> ·
-<a href="https://github.com/Sachin1885">Portfolio</a>
+[GitHub](https://github.com/Sachin1885) ·
+[Email](mailto:sachin8976540@gmail.com) ·
+[Portfolio](https://portfolio-10sv.onrender.com/)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Sachin1885&color=0e75b6&style=flat-square)
 
@@ -70,7 +70,7 @@ I am always interested in building useful products, solving challenging problems
 
 <div align="center">
 
-<a href="mailto:sachin8976540@gmail.com">Email me</a> ·
-<a href="https://github.com/Sachin1885">View my repositories</a>
+[Email me](mailto:sachin8976540@gmail.com) ·
+[View my repositories](https://github.com/Sachin1885?tab=repositories)
 
 </div>
