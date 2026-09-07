@@ -128,16 +128,19 @@ Tech: `Python` `Streamlit` `scikit-learn` `Pandas` `NumPy` `NLP`
 
 [GitHub](https://github.com/Sachin1885/AI-Resume-Screening-System) · [Live Demo](https://ai-resume-screening-system.streamlit.app/)
 
-## GitHub Activity
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sachin1885&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Sachin's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin1885&layout=compact&hide_border=true&theme=transparent" alt="Sachin's most used languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sachin1885&theme=github_dark" width="400" alt="Sachin's GitHub statistics" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=Sachin1885&hide_border=true&theme=transparent" alt="Sachin's GitHub contribution streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sachin1885&theme=github_dark" width="400" alt="Sachin's top languages by repository" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=Sachin1885&hide_border=true&theme=transparent" width="500" alt="Sachin's GitHub contribution streak" />
 
 </div>
 
