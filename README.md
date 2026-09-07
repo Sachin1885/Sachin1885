@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/Sachin1885.png" width="160" alt="Sachin Kumar" />
-
 # Sachin Kumar
 
 ### Full-Stack Developer | Problem Solver | Open-Source Enthusiast
