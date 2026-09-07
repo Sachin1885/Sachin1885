@@ -144,6 +144,16 @@ Tech: `Python` `Streamlit` `scikit-learn` `Pandas` `NumPy` `NLP`
 
 </div>
 
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sachin1885&theme=github_dark" width="100%" alt="Sachin's GitHub contribution activity" />
+
+</div>
+
+> A developer's favorite shortcut? `Ctrl + S`.
+
 ## Let's Build Something Useful
 
 Have an idea, a technical challenge, or an open-source project in mind? [Send me an email](mailto:sachin8976540@gmail.com) or [visit my portfolio](https://portfolio-10sv.onrender.com/).
