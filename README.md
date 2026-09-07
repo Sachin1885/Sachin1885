@@ -1,14 +1,17 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Sachin1885/Sachin1885/main/assets/profile-header.svg" alt="Sachin Kumar developer profile header" width="100%" />
-
 # Sachin Kumar
 
-### Full-Stack Developer building useful products with React, Node.js, Python, and AI/ML
+### Full-Stack Developer | Python Backend & Applied AI/ML
 
-<a href="https://portfolio-10sv.onrender.com/"><strong>Explore my portfolio</strong></a> ·
-<a href="https://github.com/Sachin1885?tab=repositories">View repositories</a> ·
-<a href="mailto:sachin8976540@gmail.com">Let's connect</a>
+I build practical web applications, backend services, and intelligent tools using React, Node.js, Python, Django, PostgreSQL, and machine-learning workflows.
+
+My work focuses on turning real problems into maintainable products with clear interfaces, reliable APIs, and useful data-driven features.
+
+[Portfolio](https://portfolio-10sv.onrender.com/) ·
+[GitHub](https://github.com/Sachin1885) ·
+[Repositories](https://github.com/Sachin1885?tab=repositories) ·
+[Email](mailto:sachin8976540@gmail.com)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Sachin1885&color=0e75b6&style=flat-square)
 
