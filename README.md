@@ -78,12 +78,55 @@ I enjoy the engineering work behind turning practical product ideas into clear, 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 
-## Selected Work
+## 🚀 Featured Projects
 
-- [**Portfolio**](https://github.com/Sachin1885/Portfolio) · Developer portfolio with project discovery, GitHub activity, and contact workflows.
-- [**Grocery Shop Manager**](https://github.com/Sachin1885/-Grocery-Shop-Manager) · Inventory, billing, sales, and credit management for retail operations.
-- [**Vidloom**](https://github.com/Sachin1885/Vidloom) · Peer-to-peer browser communication powered by WebRTC and WebSockets.
-- [**AI Resume Screening System**](https://github.com/Sachin1885/AI-Resume-Screening-System) · Resume and job-description matching with NLP and machine learning.
+### Developer OS Portfolio
+
+A full-stack portfolio with project discovery, GitHub activity, contact handling, and a protected admin view.
+
+Tech: `React` `TypeScript` `Vite` `Tailwind CSS` `Node.js` `Express` `SQLite`
+
+[GitHub](https://github.com/Sachin1885/Portfolio) · [Live Demo](https://portfolio-10sv.onrender.com/)
+
+### Grocery Shop Manager
+
+A retail management application for inventory, billing, sales history, and credit account tracking.
+
+Tech: `HTML` `CSS` `JavaScript` `Node.js` `Express` `PostgreSQL` `JWT`
+
+[GitHub](https://github.com/Sachin1885/-Grocery-Shop-Manager)
+
+### Rath
+
+A ride-booking backend with authenticated users, MongoDB persistence, and an Express server.
+
+Tech: `Node.js` `Express` `MongoDB` `JWT` `Mongoose`
+
+[GitHub](https://github.com/Sachin1885/Rath)
+
+### DarkType
+
+A real-time chat backend supporting a Flutter client through Node.js, MongoDB, and Socket.IO.
+
+Tech: `Node.js` `Express` `MongoDB` `Socket.IO`
+
+[GitHub](https://github.com/Sachin1885/DarkType)
+
+### STL Parsing
+
+A focused Python project that calculates 3D model volume, bounding boxes, and estimated print time from STL data.
+
+Tech: `Python`
+
+[GitHub](https://github.com/Sachin1885/STL-Parsing)
+
+### AI Resume Screening System (fork)
+
+A Streamlit application that compares resumes with job descriptions using NLP and machine-learning similarity scoring.
+
+Tech: `Python` `Streamlit` `scikit-learn` `Pandas` `NumPy` `NLP`
+
+[GitHub](https://github.com/Sachin1885/AI-Resume-Screening-System) · [Live Demo](https://ai-resume-screening-system.streamlit.app/)
 
 ## GitHub Activity
 
