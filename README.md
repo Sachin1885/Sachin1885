@@ -27,6 +27,8 @@ I enjoy the engineering work behind turning practical product ideas into clear, 
 
 - **Building:** Full-stack products with React, Node.js, Python, and PostgreSQL
 - **Exploring:** Applied AI/ML workflows and real-time browser applications
+- **Open to:** Meaningful open-source collaborations
+
 ## 🛠️ Tech Stack
 
 ### Languages
