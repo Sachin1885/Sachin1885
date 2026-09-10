@@ -1,5 +1,13 @@
 <div align="center">
 
+<p>
+	<img
+		src="https://github-profile-image.vercel.app/api/github-image?username=Sachin1885"
+		width="460"
+		alt="Sachin Kumar GitHub Profile"
+	/>
+</p>
+
 # Sachin Kumar
 
 ### Full-Stack Developer | Python Backend & Applied AI/ML
@@ -14,14 +22,6 @@ My work focuses on turning real problems into maintainable products with clear i
 [Email](mailto:sachin8976540@gmail.com)
 
 </div>
-
-<p align="center">
-	<img
-		src="https://github-profile-image.vercel.app/api/github-image?username=Sachin1885"
-		width="460"
-		alt="Sachin Kumar GitHub Profile"
-	/>
-</p>
 
 ## 👨‍💻 About Me
 
