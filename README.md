@@ -109,14 +109,6 @@ Tech: `Node.js` `Express` `MongoDB` `JWT` `Mongoose`
 
 [GitHub](https://github.com/Sachin1885/Rath)
 
-### DarkType
-
-A real-time chat backend supporting a Flutter client through Node.js, MongoDB, and Socket.IO.
-
-Tech: `Node.js` `Express` `MongoDB` `Socket.IO`
-
-[GitHub](https://github.com/Sachin1885/DarkType)
-
 ### STL Parsing
 
 A focused Python project that calculates 3D model volume, bounding boxes, and estimated print time from STL data.
@@ -124,6 +116,14 @@ A focused Python project that calculates 3D model volume, bounding boxes, and es
 Tech: `Python`
 
 [GitHub](https://github.com/Sachin1885/STL-Parsing)
+
+### DarkType
+
+A real-time chat backend supporting a Flutter client through Node.js, MongoDB, and Socket.IO.
+
+Tech: `Node.js` `Express` `MongoDB` `Socket.IO`
+
+[GitHub](https://github.com/Sachin1885/DarkType)
 
 ### AI Resume Screening System (fork)
 
