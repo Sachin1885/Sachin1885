@@ -15,6 +15,14 @@ My work focuses on turning real problems into maintainable products with clear i
 
 </div>
 
+<p align="center">
+	<img
+		src="https://github-profile-image.vercel.app/api/github-image?username=Sachin1885"
+		width="460"
+		alt="Sachin Kumar GitHub Profile"
+	/>
+</p>
+
 ## 👨‍💻 About Me
 
 I build full-stack web applications with React, Node.js, TypeScript, and Python.
